@@ -1,23 +1,9 @@
-# SHOP
+# POLYMER SHOP
 
 ### Setup
-
-##### Prerequisites
-
-Install [polymer-cli](https://github.com/Polymer/polymer-cli):
-
-    npm install -g polymer-cli
-
-
-##### Setup
-    # Using CLI
-    mkdir shop
-    cd shop
-    polymer init shop
-
-    # Or cloning direct from GitHub
-    git clone https://github.com/Polymer/shop.git
-    cd shop
+    # Cloning direct from GitHub
+    git clone https://github.com/polymer-shop.git
+    cd polymer-shop
     bower install
 
 ### Start the development server
